@@ -64,17 +64,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=MaRuF2131&theme=radical)
 
 ---
-
-✅ Next Steps:
-
-Would you like me to:
-
-1. Send this as a downloadable `README.md` file?
-2. Design a **custom banner** (with your name + MERN Stack Dev)?
-
-Just reply:
-
-> ✅ Yes, send README file  
-> 🎨 Yes, make a custom banner
-
-Ready when you are.
