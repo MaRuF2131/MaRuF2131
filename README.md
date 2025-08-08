@@ -1,67 +1,92 @@
-<p align="center">
-  <!-- Banner -->
- <!--  <img src="https://i.postimg.cc/BnrqjVkN/Chat-GPT-Image-Jun-25-2025-12-26-00-PM.png" alt="Tamanna Akter Banner" /> -->
-</p>
+<!-- Banner -->
+<img src="https://i.ibb.co/QQNmsp9/dev-banner.png" alt="Banner" style="width:100%;" />
 
-<h1 align="center">Hi, I'm MD Maruf Ahmmed 👋</h1>
-<h3 align="center">MERN Stack Developer</h3>
+# 👋 Hi, I'm Maruf Ahmmed
 
-<p align="center">
-  <!-- Location & Email -->
-  📍 Sylhet, Bangladesh&nbsp;&nbsp;•&nbsp;&nbsp;✉ <a href="mailto:marufahmmed916@gmail.com">marufahmmed916@gmail.com</a>
-</p>
+## 💻 Full Stack Web Developer | CSE Student | MERN Stack Enthusiast
 
 ---
 
-### 🙋‍♀ About Me
-I'm a Computer Science &amp; Engineering student at *Sylhet International University* with a deep interest in MERN-stack development.  
-I build scalable, user-friendly web apps using *React, **Node.js, **Express, and **MongoDB*, and I’m always excited to learn new technologies.
+### 🧑‍🎓 About Me
+
+- 🎓 CSE student passionate about solving real-world problems using code.
+- 💡 Skilled in both **Frontend** and **Backend** development (MERN Stack).
+- 🌱 Exploring **Next.js**, **React Query**, and scalable backend architecture.
+- 💼 Currently working on:
+  - 🌍 A **Full Stack Tourism Website**
+  - ✅ A **Task Management App** with auth and CRUD
+- 🤝 Always open to collaboration and internship opportunities.
 
 ---
 
-### 🔭 Currently Working On
-- 🌐 A MERN service &amp; recipe platform (JWT auth + CRUD)  
-- ⚙ Automating CI/CD with *GitHub Actions*  
-- 🚀 Exploring *Next.js, **Tailwind CSS*, and advanced React patterns  
+### 🚀 Tech Stack & Tools
+
+#### 💻 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+#### 🔧 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+#### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
-### 🛠 Skills
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</p>
+### 📌 Featured Projects
+
+- 🧭 `tourism-booking-app` – Full stack travel platform (React, Tailwind, Node, MongoDB)
+- ✅ `task-manager` – Task management app with auth, CRUD, and dashboard
+- 🌐 `portfolio-site` – Personal developer portfolio with modern UI
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/tamanna-akter-9732a4365/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+### 🌐 Connect with Me
 
-  <a href="https://web.facebook.com/tamanna.sultana.sathi.2025/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-
-  <a href="mailto:marufahmmed916@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    <strong style="margin-left: 8px; color: black;">marufahmmed916@gmail.com</strong>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/MaRuF2131)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?logo=web&logoColor=white)](https://your-portfolio-site.netlify.app)
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MaRuF2131&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaRuF2131&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaRuF2131&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaRuF2131&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=MaRuF2131&theme=radical)
+
+---
+
+### 📝 Bonus Tips
+
+| Element         | Tip                                                         |
+|-----------------|--------------------------------------------------------------|
+| **Profile Name**| Use your full name (✅ already done)                         |
+| **Profile Bio** | “Full Stack Web Developer | CSE Student | MERN Enthusiast”  |
+| **Email**       | Add a verified professional email to your profile           |
+| **Banner**      | Already added (good visual branding)                        |
+| **Pinned Repos**| Pin your `tourism-booking-app`, `task-manager`, `portfolio` |
+
+---
+
+✅ Next Steps:
+
+Would you like me to:
+
+1. Send this as a downloadable `README.md` file?
+2. Design a **custom banner** (with your name + MERN Stack Dev)?
+
+Just reply:
+
+> ✅ Yes, send README file  
+> 🎨 Yes, make a custom banner
+
+Ready when you are.
