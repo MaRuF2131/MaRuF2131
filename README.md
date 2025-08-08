@@ -65,18 +65,6 @@
 
 ---
 
-### 📝 Bonus Tips
-
-| Element         | Tip                                                         |
-|-----------------|--------------------------------------------------------------|
-| **Profile Name**| Use your full name (✅ already done)                         |
-| **Profile Bio** | “Full Stack Web Developer | CSE Student | MERN Enthusiast”  |
-| **Email**       | Add a verified professional email to your profile           |
-| **Banner**      | Already added (good visual branding)                        |
-| **Pinned Repos**| Pin your `tourism-booking-app`, `task-manager`, `portfolio` |
-
----
-
 ✅ Next Steps:
 
 Would you like me to:
