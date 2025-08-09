@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.ibb.co/HLz63Y7k/image.png" alt="Banner" style="width:100%;" />
+<img src="https://i.ibb.co/HLz63Y7k/image.png" alt="Banner" style="width:70%;" />
 
 # 👋 Hi, I'm Maruf Ahmmed
 
