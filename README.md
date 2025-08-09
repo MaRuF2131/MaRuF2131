@@ -7,15 +7,45 @@
 
 ---
 
-### 🧑‍🎓 About Me
+## 🧑‍💻 About Me  
+I’m a passionate and self-motivated **Full Stack Developer (MERN Stack)** and a Computer Science student at **Daffodil Institute of IT**, dedicated to building scalable, user-friendly, and impactful web applications that solve real-world problems.  
+I enjoy tackling challenges across both frontend and backend development, from creating modern UIs to building secure and efficient server-side solutions.
 
-- 🎓 CSE student passionate about solving real-world problems using code.
-- 💡 Skilled in both **Frontend** and **Backend** development (MERN Stack).
-- 🌱 Exploring **Next.js**, **React Query**, and scalable backend architecture.
-- 💼 Currently working on:
-  - 🌍 A **Full Stack Tourism Website**
-  - ✅ A **Task Management App** with auth and CRUD
-- 🤝 Always open to collaboration and internship opportunities.
+---
+
+## 🚀 Current Activities  
+- 🌱 Exploring **Next.js** to expand my frontend development skills.  
+- 🌍 Working on a **Tourism Website** with dynamic content and interactive features.  
+- 🛡 Improving backend security using **JWT-based authentication**.  
+- 📚 Learning advanced **API integrations** and optimization techniques.  
+
+---
+
+## 🛠 Skills  
+
+### 🎨 Frontend  
+- ⚛️ **React.js**  
+- 🔄 **React Query (Mutations)**  
+- 🎨 **Tailwind CSS**, **SASS**  
+- 🌐 **HTML5**, **CSS3**, **JavaScript (ES6+)**  
+
+### 🖥 Backend  
+- 🖥 **Node.js**  
+- ⚡ **Express.js**  
+- 🗄 **MongoDB**, **MySQL**  
+- 🔐 **JWT Authentication**  
+- 🧠 **API Development & Integration** (ChatGPT API, Firebase)  
+
+### 💻 Programming Languages  
+- 📜 **JavaScript**  
+- 💻 **C**, **C++**  
+- 🌐 **PHP**  
+
+### 🧰 Tools & Platforms  
+- 🛠 **Git**, **GitHub**  
+- 💻 **VS Code**, **Trae IDE**  
+- ☁ **Firebase**  
+
 
 ---
 
