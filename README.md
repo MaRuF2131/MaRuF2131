@@ -44,7 +44,7 @@ I enjoy tackling challenges across both frontend and backend development, from c
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
 
 #### 🖥 Programming Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)]  
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)  
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
@@ -66,7 +66,6 @@ I enjoy tackling challenges across both frontend and backend development, from c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maruf-ahmmed-81325824a)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/MaRuF2131)
-//[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?logo=web&logoColor=white)](https://your-portfolio-site.netlify.app)
 
 ---
 
