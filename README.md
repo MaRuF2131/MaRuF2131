@@ -15,9 +15,9 @@ I enjoy tackling challenges across both frontend and backend development, from c
 
 ## 🚀 Current Activities  
 - 🌱 Exploring **Next.js** to expand my frontend development skills.  
-- 🌍 Working on a **Tourism Website** with dynamic content and interactive features.  
-- 🛡 Improving backend security using **JWT-based authentication**.  
-- 📚 Learning advanced **API integrations** and optimization techniques.  
+- 🌍 Working on a **Online Contact Book and Employ Management ** with dynamic content and interactive features.  
+- 🛡 Improving backend security using **JWT-based authentication and role base authorization and more**.  
+- 📚 Learning advanced **API integrations and AI API ** and optimization techniques.  
 
 ---
 
