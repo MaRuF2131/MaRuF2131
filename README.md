@@ -61,19 +61,12 @@ I enjoy tackling challenges across both frontend and backend development, from c
 
 ---
 
-### 📌 Featured Projects
-
-- 🧭 `tourism-booking-app` – Full stack travel platform (React, Tailwind, Node, MongoDB)
-- ✅ `task-manager` – Task management app with auth, CRUD, and dashboard
-- 🌐 `portfolio-site` – Personal developer portfolio with modern UI
-
----
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maruf-ahmmed-81325824a)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/MaRuF2131)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?logo=web&logoColor=white)](https://your-portfolio-site.netlify.app)
+//[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?logo=web&logoColor=white)](https://your-portfolio-site.netlify.app)
 
 ---
 
